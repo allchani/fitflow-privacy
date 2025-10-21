@@ -45,7 +45,7 @@ This application (“**FitFlow**”, “the App”) **does not collect, store, o
   - If introduced, this policy will be **updated in advance**, and users will be **clearly informed** in the App.  
   - Any collection will be **minimal**, transparent, and compliant with Google Play’s User Data Policy.
 
-Contact: **youremail@example.com**
+Contact: **km.fitflow@gmail.com**
 
 ## Third-party Services (Current)
 - No third-party services (ads/analytics/logging) are used in the current version.
