@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy — 틈트니 (영문명: FitFlow)
+title: "Privacy Policy — 틈트니 (영문명: FitFlow)"
 ---
 
 # 개인정보처리방침 — 틈트니 (영문명: FitFlow)  
