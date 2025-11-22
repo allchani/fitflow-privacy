@@ -2,7 +2,7 @@
 title: "Privacy Policy — 틈트니 (영문명: FitFlow)"
 ---
 
-📌 Privacy Policy — 틈트니 (영문명: FitFlow)
+## 📌 Privacy Policy — 틈트니 (영문명: FitFlow)
 
 Last updated: 2025-11-22
 
@@ -13,7 +13,7 @@ Google이 광고 제공 및 성능 분석을 위해 일부 데이터를 자동�
 
 본 앱 개발자는 해당 데이터를 직접 열람하거나 저장하지 않습니다.
 
-## 📌 1. 앱이 직접 수집·저장하는 데이터
+### 1. 앱이 직접 수집·저장하는 데이터
 
 본 앱은 다음의 데이터를 직접적으로 수집하거나 저장하지 않습니다:
 
@@ -27,7 +27,7 @@ Google이 광고 제공 및 성능 분석을 위해 일부 데이터를 자동�
 
 서버로 전송되는 로그 또는 사용자 활동 정보
 
-## 📌 2. 제3자(구글) SDK에 의해 자동 수집될 수 있는 데이터
+### 2. 제3자(구글) SDK에 의해 자동 수집될 수 있는 데이터
 
 본 앱은 광고 기능 제공을 위해 Google AdMob 및 Google UMP를 사용하며,
 Google은 다음과 같은 정보를 자동으로 수집할 수 있습니다:
@@ -49,7 +49,7 @@ SDK 수준의 오류·크래시 로그
 Google의 데이터 수집 정책은 다음에서 확인할 수 있습니다:
 https://policies.google.com/technologies/ads
 
-## 📌 3. 광고 및 동의 관리 (Google UMP)
+### 3. 광고 및 동의 관리 (Google UMP)
 
 본 앱은 Google UMP를 사용하여 사용자의 광고 개인화 동의 여부를 확인 및 관리합니다.
 
@@ -59,38 +59,39 @@ https://policies.google.com/technologies/ads
 
 동의 선택은 언제든지 앱 내 설정(또는 UMP 재프롬프트 시)에서 변경할 수 있습니다.
 
-## 📌 4. 데이터 보관·삭제
+### 4. 데이터 보관·삭제
 
 본 앱은 어떠한 사용자 데이터도 직접 보관하지 않습니다.
 
 Google AdMob에 의해 수집된 데이터는 Google의 정책에 따라 관리되며,
 앱 개발자가 삭제할 수 없습니다.
 
-## 📌 5. 국제 데이터 전송
+### 5. 국제 데이터 전송
 
 Google AdMob/UMP는 글로벌 서비스로서 국가 간 데이터 전송이 발생할 수 있습니다.
 이 전송은 Google의 개인정보처리방침에 따라 관리됩니다.
 
-## 📌 6. 권한 사용 목적
+### 6. 권한 사용 목적
 
 본 앱은 아래의 권한을 앱 기능 제공 목적에 한해 사용합니다:
 
 전화 상태 권한 (READ_PHONE_STATE)
 
-운동 재생 중 전화가 걸리면 자동으로 운동을 일시정지하기 위해 필요
+- 운동 재생 중 전화가 걸리면 자동으로 운동을 일시정지하기 위해 필요
+- 어떠한 정보도 외부로 전송되지 않음
 
-어떠한 정보도 외부로 전송되지 않음
-
-## 📌 7. 개인정보 문의
+### 7. 개인정보 문의
 
 문의: km.fitflow@gmail.com
 
-## 📌 8. 본 방침의 변경
+### 8. 본 방침의 변경
 
 본 정책은 기능 추가 또는 Google 정책 변경에 따라 업데이트될 수 있습니다.
 중요한 변경이 있을 경우 앱 내 공지 또는 본 페이지 갱신을 통해 안내합니다.
 
-📌 Privacy Policy — FitFlow (English)
+
+
+## 📌 Privacy Policy — FitFlow (English)
 
 Last updated: 2025-11-22
 
@@ -160,9 +161,8 @@ Google may process data on servers located in various countries.
 ### 6. Permissions Used
 Phone State (READ_PHONE_STATE)
 
-Used to pause workouts automatically during incoming calls.
-
-No data is transmitted externally.
+- Used to pause workouts automatically during incoming calls.
+- No data is transmitted externally.
 
 ### 7. Contact
 
