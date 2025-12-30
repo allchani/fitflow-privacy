@@ -71,7 +71,7 @@ https://policies.google.com/technologies/ads
 본 앱은 아래의 권한을 앱 기능 제공 목적에 한해 사용합니다:
 
 * **전화 상태 권한 (READ_PHONE_STATE):** 운동 재생 중 전화가 걸리면 자동으로 운동을 일시정지하기 위해 필요합니다. 어떠한 정보도 외부로 전송되지 않습니다.
-* **다른 앱 위에 그리기 권한 (SYSTEM_ALERT_WINDOW):** 사용자가 다른 앱을 사용하는 동안에도 플로팅 타이머나 운동 현황을 화면에 표시하기 위해 사용됩니다.
+* **다른 앱 위에 그리기 권한 (SYSTEM_ALERT_WINDOW):** 사용자가 다른 앱을 사용하는 동안에도 운동 현황 및 진행상황을 화면에 표시하기 위해 사용됩니다.
 
 ---
 
@@ -157,7 +157,7 @@ Data may be processed on servers located in various countries as Google AdMob/UM
 The App uses the following permissions solely for the purpose of providing App features:
 
 * **Phone State (READ_PHONE_STATE):** Used to pause workouts automatically during incoming calls. No data is transmitted externally.
-* **Display Over Other Apps (SYSTEM_ALERT_WINDOW):** Used to display a floating timer or workout status on the screen while the user is using other apps.
+* **Display Over Other Apps (SYSTEM_ALERT_WINDOW):** Used to display workout status on the screen while the user is using other apps.
 
 ---
 
