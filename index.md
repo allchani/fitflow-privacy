@@ -4,7 +4,7 @@ title: "개인정보처리방침 — 틈새스쿼트 (영문명: EasySquat)"
 
 ## 📌 개인정보처리방침 — 틈새스쿼트 (영문명: EasySquat)
 
-**최종 업데이트: 2025-12-29**
+**최종 업데이트: 2025-12-31**
 
 본 애플리케이션(**“틈새스쿼트”**, 영문명 **“EasySquat”**, 이하 “본 앱”)은 서비스 제공 및 계정 관리를 위해 사용자의 데이터를 **직접 수집하고 FireStore 서버에 저장**합니다. 본 앱이 수집하는 주요 데이터는 **구글 계정을 통한 사용자 식별 정보(이메일 주소, 사용자 ID, 이름)** 및 **사용자가 직접 기록한 운동 데이터(피트니스 정보)**입니다.
 
@@ -101,7 +101,7 @@ https://policies.google.com/technologies/ads
 
 ## 📌 Privacy Policy — EasySquat (English)
 
-**Last updated: 2025-12-29**
+**Last updated: 2025-12-31**
 
 **EasySquat** (“the App”) **directly collects and stores** user data on the **FireStore server** for the purpose of service provision and account management. The key data collected includes **user identification information (Email address, User ID, Name) via Google Sign-In** and **user-recorded workout data (Fitness Information)**.
 
