@@ -43,13 +43,24 @@ https://policies.google.com/technologies/ads
 
 ---
 
-### 3. 광고 및 동의 관리 (Google UMP)
+### 3. 카메라 데이터 및 권한 처리 (Anti-Cheat)
+본 앱은 사용자의 스쿼트 동작을 정밀하게 인식하고 부정행위 방지(Anti-Cheat) 기능을 제공하기 위해 카메라 권한을 사용합니다. 카메라 데이터의 처리는 다음과 같은 원칙을 따릅니다:
+
+실시간 기기 내 처리 (On-Device Processing): 카메라는 오직 사용자의 얼굴 인식 및 동작 감지를 위해 실시간으로 사용되며, 모든 데이터 처리는 **사용자의 기기 내부(On-Device)**에서만 이루어집니다.
+
+데이터 저장 및 전송 금지: 카메라를 통해 촬영된 이미지나 영상은 서버로 전송되거나 기기에 저장되지 않습니다. 분석이 완료된 프레임은 즉시 메모리에서 삭제(폐기)됩니다.
+
+사용 목적 제한: 카메라 권한은 오직 운동 동작 인식 및 게임 플레이 목적으로만 사용되며, 그 외의 목적으로 사용자의 신원을 식별하거나 감시하지 않습니다.
+
+---
+
+### 4. 광고 및 동의 관리 (Google UMP)
 
 본 앱은 Google UMP를 사용하여 사용자의 광고 개인화 동의 여부를 확인 및 관리합니다. 사용자는 광고 개인화 허용/거부를 선택할 수 있으며, 거부한 경우 비개인화 광고(NPA)가 표시됩니다. 동의 선택은 언제든지 앱 내 설정에서 변경할 수 있습니다.
 
 ---
 
-### 4. 데이터 보관·삭제
+### 5. 데이터 보관·삭제
 
 본 앱 개발자는 수집된 사용자 계정 정보(이메일, ID, 이름) 및 모든 스쿼트 기록을 **FireStore 서버에 보관**합니다.
 
@@ -60,13 +71,13 @@ https://policies.google.com/technologies/ads
 
 ---
 
-### 5. 국제 데이터 전송
+### 6. 국제 데이터 전송
 
 본 앱은 FireStore 서버를 사용하며, Google AdMob/UMP 및 Firebase는 글로벌 서비스로서 데이터가 사용자의 거주 국가 외의 서버에서 처리될 수 있습니다. 이 전송은 Google의 개인정보처리방침에 따라 관리됩니다.
 
 ---
 
-### 6. 권한 사용 목적
+### 7. 권한 사용 목적
 
 본 앱은 아래의 권한을 앱 기능 제공 목적에 한해 사용합니다:
 
@@ -75,13 +86,13 @@ https://policies.google.com/technologies/ads
 
 ---
 
-### 7. 개인정보 문의
+### 8. 개인정보 문의
 
 문의: km.fitflow@gmail.com
 
 ---
 
-### 8. 본 방침의 변경
+### 9. 본 방침의 변경
 
 본 정책은 기능 추가 또는 Google 정책 변경에 따라 업데이트될 수 있습니다. 중요한 변경이 있을 경우 앱 내 공지 또는 본 페이지 갱신을 통해 안내합니다.
 
@@ -129,13 +140,24 @@ https://policies.google.com/technologies/ads
 
 ---
 
-### 3. Ads & Consent (Google UMP)
+### 3. Camera Permissions and Data Handling (Anti-Cheat)
+The App uses Camera permissions to provide precise squat motion detection and Anti-Cheat features. The handling of camera data adheres to the following principles:
+
+On-Device Processing: The camera is used solely for real-time face detection and motion tracking. All data processing is performed locally on the user's device (On-Device).
+
+No Storage or Transmission: Images or videos captured via the camera are NOT transmitted to any server nor stored on the device. Analyzed frames are immediately discarded from memory after processing.
+
+Limited Purpose: Camera access is strictly limited to motion detection and gameplay purposes and is not used to identify or monitor the user for any other reasons.
+
+---
+
+### 4. Ads & Consent (Google UMP)
 
 UMP is used to request and manage the user’s ad consent. Users may allow or decline personalized ads. If declined, non-personalized ads (NPA) are served. Users may update consent preferences within the App when available.
 
 ---
 
-### 4. Data Retention & Deletion
+### 5. Data Retention & Deletion
 
 The App developer retains the collected **user account information (email, ID, name) and all squat records on the FireStore server.**
 
@@ -146,13 +168,13 @@ The App developer retains the collected **user account information (email, ID, n
 
 ---
 
-### 5. International Data Transfers
+### 6. International Data Transfers
 
 Data may be processed on servers located in various countries as Google AdMob/UMP and Firebase are global services.
 
 ---
 
-### 6. Permissions Used
+### 7. Permissions Used
 
 The App uses the following permissions solely for the purpose of providing App features:
 
@@ -161,12 +183,12 @@ The App uses the following permissions solely for the purpose of providing App f
 
 ---
 
-### 7. Contact
+### 8. Contact
 
 Email: km.fitflow@gmail.com
 
 ---
 
-### 8. Changes to This Policy
+### 9. Changes to This Policy
 
 We may update this policy as features evolve or policies change. Major updates will be announced in-app and on this page.
